@@ -1,0 +1,15 @@
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.AssemblyInfoInputs.cache
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.AssemblyInfo.cs
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.sourcelink.json
+C:\Users\grautecnico\teste123\bin\Debug\net8.0\teste.exe
+C:\Users\grautecnico\teste123\bin\Debug\net8.0\teste.deps.json
+C:\Users\grautecnico\teste123\bin\Debug\net8.0\teste.runtimeconfig.json
+C:\Users\grautecnico\teste123\bin\Debug\net8.0\teste.dll
+C:\Users\grautecnico\teste123\bin\Debug\net8.0\teste.pdb
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.dll
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\refint\teste.dll
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.pdb
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\teste.genruntimeconfig.cache
+C:\Users\grautecnico\teste123\obj\Debug\net8.0\ref\teste.dll

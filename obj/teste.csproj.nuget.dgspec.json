@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grautecnico\\teste\\teste.csproj": {}
+    "C:\\Users\\grautecnico\\teste123\\teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grautecnico\\teste\\teste.csproj": {
+    "C:\\Users\\grautecnico\\teste123\\teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grautecnico\\teste\\teste.csproj",
+        "projectUniqueName": "C:\\Users\\grautecnico\\teste123\\teste.csproj",
         "projectName": "teste",
-        "projectPath": "C:\\Users\\grautecnico\\teste\\teste.csproj",
+        "projectPath": "C:\\Users\\grautecnico\\teste123\\teste.csproj",
         "packagesPath": "C:\\Users\\grautecnico\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grautecnico\\teste\\obj\\",
+        "outputPath": "C:\\Users\\grautecnico\\teste123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grautecnico\\AppData\\Roaming\\NuGet\\NuGet.Config",

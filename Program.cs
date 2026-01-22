@@ -13,6 +13,5 @@ t1.Start();
 t2.Start();
 t3.Start();
 
-Console.ReadLine()
+Console.WriteLine("Iniciou!");
 
-//nomedatask.Join();
